@@ -32,14 +32,12 @@ print(p12.cert)
 ### ✨ Sign a XML
 
 ```python
-from xadessri import get_private_key, sign_xml
+from xadessri import sign_xml
 
 
 with open("/signature.p12", mode="rb") as file:
     p12 = file.read() # bytes
 
-
-p12 = get_private_key(p12, "password")
 
 xml = """<xml><data>some important data</data></xml>"""
 
