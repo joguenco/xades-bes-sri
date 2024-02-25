@@ -4,7 +4,7 @@ from xadessri.version import __version__
 
 setup(
     name="xadessri",
-    version=__version__,
+    version="0.1.1",
     url="https://github.com/jsonfm/xades-bes-sri",
     description="A library for signing XML documents using the XADES-BES algorithm, which follows the guidelines of the SRI of Ecuador",
     packages=["xadessri"],

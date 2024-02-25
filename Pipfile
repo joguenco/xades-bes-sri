@@ -1,5 +1,5 @@
 [[source]]
-url = "https://pypi.org/simple"
+url = "https://github.com/jsonfm/xades-bes-sri"
 verify_ssl = true
 name = "xadessri"
 
