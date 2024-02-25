@@ -1,5 +1,4 @@
 from setuptools import setup
-from xadessri.version import __version__
 
 
 setup(
