@@ -11,7 +11,7 @@ An implementation of xades bes sri python to sign XML documents for e-invoicing.
 ### 📦 Installation
 
 ```
-pip install git+https://github.com/jsonfm/xades-bes-sri@0.1.0
+pip install git+https://github.com/jsonfm/xades-bes-sri@0.1.0.1
 ```
 
 ### ✨ Read .p12 file
