@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "xadessri"
+
+[packages]
+cryptography = "==42.0.5"
+lxml = "==5.1.0"
+
+[dev-packages]
+lxml-stubs = "==0.5.1"
+pytest = "==8.0.2"
+setuptools = "==69.1.1"
+
+[requires]
+python_version = "3.9"
