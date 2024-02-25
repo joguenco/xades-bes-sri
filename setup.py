@@ -15,13 +15,6 @@ setup(
         "cryptography==42.0.5",
         "lxml==5.1.0",
     ],
-    extras_require={
-        "dev": [
-            "lxml-stubs==0.5.1",
-            "pytest==8.0.2",
-            "setuptools==69.1.1"
-        ]
-    },
     python_requires=">=3.9",
     classifiers=[
         "Development Status :: 3 - Alpha",
