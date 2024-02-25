@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="xadessri",
-    version="0.1.1",
+    version="0.1.0",
     url="https://github.com/jsonfm/xades-bes-sri",
     description="A library for signing XML documents using the XADES-BES algorithm, which follows the guidelines of the SRI of Ecuador",
     packages=["xadessri"],
