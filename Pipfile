@@ -4,8 +4,8 @@ verify_ssl = true
 name = "xadessri"
 
 [packages]
-cryptography = "==42.0.5"
-lxml = "==5.1.0"
+cryptography = "==42.0.8"
+lxml = "==5.2.1"
 
 [dev-packages]
 lxml-stubs = "==0.5.1"

@@ -11,8 +11,8 @@ setup(
     author_email="franciscomacas3@gmail.com",
     license="AGPL V3",
     install_requires=[
-        "cryptography==42.0.5",
-        "lxml==5.1.0",
+        "cryptography==42.0.8",
+        "lxml==5.2.1",
     ],
     python_requires=">=3.9",
     classifiers=[
